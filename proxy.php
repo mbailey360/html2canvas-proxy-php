@@ -55,3 +55,4 @@ function get_url_details($url, $attempt = 1, $callback = "")
         "mime_type" => $mime_type
     );
 }
+?>
